@@ -43,4 +43,4 @@ See the [license file](LICENSE.md).
 
 ## Contributing
 
-See [instructions for contributors](CONTRIBUTING.md).
+Contributions such as pull requests or opening issues are welcomed. If you plan on submitting a pull request, please complete a [Contributor License Agreement](https://www.clahub.com/agreements/Chicago/SGIM_Results).
