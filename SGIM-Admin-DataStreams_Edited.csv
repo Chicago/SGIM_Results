@@ -1,0 +1,132 @@
+Id,Title,Description,Property,Medium,Lat,Lng,UnitName,UnitAbbrev,MeasureType,Import,Notes
+9364,NWS WPC 24-hour QPF Regional Mosaic,Ingests regional image of 24-hour QPF for continental United States,ExpectedPrecipitation,Atmosphere,38.822591,-101.25,HTTP URL,URL,Instantaneous,N,
+9365,NWS WPC 5-day QPF Regional Mosaic,Ingests regional image of 5-day QPF for continental United States,ExpectedPrecipitation,Atmosphere,38.822591,-101.25,HTTP URL,URL,Instantaneous,N,
+9366,NWS WPC 0-6 hour QPF Regional Mosaic,Ingests regional image of 6-hour QPF for continental United States,ExpectedPrecipitation,Atmosphere,38.822591,-101.25,HTTP URL,URL,Instantaneous,N,
+9367,Southeast Backscatter Radar Mosaic,Ingests atmospheric backscatter radar mosaic of United States Southeast,BaseReflectivity,Atmosphere,29.61167,-82.045898,HTTP URL,URL,Instantaneous,N,
+9368,Southwest Backscatter Radar Mosaic,Ingests atmospheric backscatter radar mosaic of United States Pacific Southwest,BaseReflectivity,Atmosphere,38.719805,-119.399414,HTTP URL,URL,Instantaneous,N,
+9410,Pacific Northwest Radar Image.,Pacific Northwest NWS Radar.,Precipitation,Atmosphere,45.569289,-122.830626,HTTP URL,URL,Instantaneous,N,
+12620,Radar - Alaska,,BaseReflectivity,Atmosphere,61.110316,-149.985958,HTTP URL,URL,Instantaneous,N,
+12621,Radar - Central Great Lakes USA,,BaseReflectivity,Atmosphere,39.105468,-84.820164,HTTP URL,URL,Instantaneous,N,
+12622,Radar - Hawaii,,BaseReflectivity,Atmosphere,19.649876,-155.505488,HTTP URL,URL,Instantaneous,N,
+12623,Radar - Continental USA,,BaseReflectivity,Atmosphere,40,-95.30829,HTTP URL,URL,Instantaneous,N,
+12624,Radar - Northeast USA,,BaseReflectivity,Atmosphere,42.351526,-71.071363,HTTP URL,URL,Instantaneous,N,
+12625,Radar - Northern Rockies,,BaseReflectivity,Atmosphere,41.000658,-109.050076,HTTP URL,URL,Instantaneous,N,
+12626,Radar - Lower Missippi Valley,,BaseReflectivity,Atmosphere,34.995694,-90.309287,HTTP URL,URL,Instantaneous,N,
+12627,Radar - Southern Plains USA,,BaseReflectivity,Atmosphere,31.491995,-99.111808,HTTP URL,URL,Instantaneous,N,
+12628,Radar - Southern Rockies,,BaseReflectivity,Atmosphere,36.998986,-109.045186,HTTP URL,URL,Instantaneous,N,
+12629,Radar - Upper Missippi Valley,,BaseReflectivity,Atmosphere,43.500392,-96.453292,HTTP URL,URL,Instantaneous,N,
+33264,UI Labs Bioswale NWS Probability of Precipitation,,TimeWindowBoundary,NA,41.90715,-87.653996,universal coordinated time,UTC,Instantaneous,Y,
+33265,UI Labs Bioswale NWS Quantitative Precipitation Forecast,,TimeWindowBoundary,NA,41.90715,-87.653996,universal coordinated time,UTC,Instantaneous,Y,
+33295,UI Labs Bioswale - Thunder 1: Cellular Strength,Cellular Strength,CellularSignalStrength,CellularNetwork,41.90715,-87.653996,decibel milliwatts,dBm,Instantaneous,TBD,
+33296,UI Labs Bioswale - Thunder 1: Cellular Strength Error Code,Cellular Strength Error Code,ErrorCode,OptiThunder,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33297,UI Labs Bioswale - Thunder 1: Cellular Quality,Cellular Quality,CellularSignalQuality,CellularNetwork,41.90715,-87.653996,decibel level,dB,Instantaneous,TBD,
+33298,UI Labs Bioswale - Thunder 1: Cellular Quality Error Code,Cellular Quality Error Code,ErrorCode,OptiThunder,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33299,UI Labs Bioswale - Thunder 1: Opti Heartbeat,Opti Heartbeat,OptiThunderHeartbeat,OptiThunder,41.90715,-87.653996,seconds,s,Instantaneous,N,
+33300,UI Labs Bioswale - Thunder 1: Opti Heartbeat Error Code,Opti Heartbeat Error Code,ErrorCode,OptiThunder,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33301,UI Labs Bioswale - Thunder 1: Operation Mode,Operation Mode,LocalStateVariable,OptiThunder,41.90715,-87.653996,state variable,state,Instantaneous,N,
+33302,UI Labs Bioswale - Thunder 1: Operation Mode Error Code,Operation Mode Error Code,ErrorCode,OptiThunder,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33303,UI Labs Bioswale - Thunder 1: SM1 Soil Moisture Sensor,SM1 Soil Moisture Sensor,SoilMoisture,Soil,41.90715,-87.653996,millivolts,mV,Instantaneous,Y,
+33304,UI Labs Bioswale - Thunder 1: SM1 Soil Moisture Sensor Error Code,SM1 Soil Moisture Sensor Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33305,UI Labs Bioswale - Thunder 1: TM1 Temp Sensor,TM1 Temp Sensor,Temperature,Atmosphere,41.90715,-87.653996,millivolts,mV,Instantaneous,Y,
+33306,UI Labs Bioswale - Thunder 1: TM1 Temp Sensor Error Code,TM1 Temp Sensor Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33307,UI Labs Bioswale - Thunder 1: MK-III Weather Station Temp,MK-III Weather Station Temp,Temperature,Atmosphere,41.90715,-87.653996,degrees Celsius,degC,Instantaneous,Y,
+33308,UI Labs Bioswale - Thunder 1: MK-III Weather Station Temp Error Code,MK-III Weather Station Temp Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33309,UI Labs Bioswale - Thunder 1: MK-III Weather Station RH,MK-III Weather Station RH,RelativeHumidity,Atmosphere,41.90715,-87.653996,percent,%,Instantaneous,Y,
+33310,UI Labs Bioswale - Thunder 1: MK-III Weather Station RH Error Code,MK-III Weather Station RH Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33311,UI Labs Bioswale - Thunder 1: MK-III Weather Station Pressure,MK-III Weather Station Pressure,DifferentialPressure,Atmosphere,41.90715,-87.653996,pascals,Pa,Instantaneous,Y,
+33312,UI Labs Bioswale - Thunder 1: MK-III Weather Station Pressure Error Code,MK-III Weather Station Pressure Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33313,UI Labs Bioswale - Thunder 1: MK-III Weather Station Wind Speed,MK-III Weather Station Wind Speed,WindSpeed,Atmosphere,41.90715,-87.653996,meters per second,m/s,Instantaneous,Y,
+33314,UI Labs Bioswale - Thunder 1: MK-III Weather Station Wind Speed Error Code,MK-III Weather Station Wind Speed Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33315,UI Labs Bioswale - Thunder 1: MK-III Weather Station Wind Direction,MK-III Weather Station Wind Direction,WindDirection,Atmosphere,41.90715,-87.653996,degrees from north,deg from north,Instantaneous,Y,
+33316,UI Labs Bioswale - Thunder 1: MK-III Weather Station Wind Direction Error Code,MK-III Weather Station Wind Direction Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33317,UI Labs Bioswale - Thunder 1: MK-III Weather Station Rainfall,MK-III Weather Station Rainfall,CumulativePrecipitation,Atmosphere,41.90715,-87.653996,count,count,Cumulative,Y,
+33318,UI Labs Bioswale - Thunder 1: MK-III Weather Station Rainfall Error Code,MK-III Weather Station Rainfall Error Code,ErrorCode,SerialGateway,41.90715,-87.653996,dimensionless,,Instantaneous,TBD,
+33319,UI Labs Bioswale - Thunder 1: Online Status,Online Status,OnlineStatus,OptiThunder,41.90715,-87.653996,OptiRTC Network Status,Network Status,Instantaneous,TBD,API returns multiple values per timestamp
+36170,UI Labs Bioswale - Cumulus: Bioswale Calibrated VWC Continuous Lookup,,SoilMoisture,OptiApplication,41.90715,-87.653996,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+36171,UI Labs Bioswale - Cumulus: Bioswale Calibrated VWC Result Lookup,,SoilMoisture,OptiApplication,41.90715,-87.653996,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+36172,UI Labs Bioswale - Cumulus: Bioswale Calibrated VWC,,SoilMoisture,NA,41.90715,-87.653996,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+36173,UI Labs Bioswale - Cumulus: Weather Station Rainfall Polynomial Coefficients,,Coefficients,OptiApplication,41.90715,-87.653996,inches,in,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+36174,UI Labs Bioswale - Cumulus: Weather Station Rainfall,,CumulativePrecipitation,NA,41.90715,-87.653996,inches,in,Cumulative,TBD,API returns multiple values per timestamp
+36175,UI Labs Bioswale - Cumulus: Weather Station Air Temp Polynomial Coefficients,,Coefficients,OptiApplication,41.90715,-87.653996,degrees Celsius,degC,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+36176,UI Labs Bioswale - Cumulus: Weather Station Air Temp,,Temperature,NA,41.90715,-87.653996,degrees Celsius,degC,Instantaneous,Y,
+36177,UI Labs Bioswale - Cumulus: Weather Station Pressure Polynomial Coefficients,,Coefficients,OptiApplication,41.90715,-87.653996,pascals,Pa,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+36178,UI Labs Bioswale - Cumulus: Weather Station Pressure,,DifferentialPressure,NA,41.90715,-87.653996,pascals,Pa,Instantaneous,Y,
+36179,UI Labs Bioswale - Cumulus: Weather Station Wind Speed Polynomial Coefficients,,Coefficients,OptiApplication,41.90715,-87.653996,meters per second,m/s,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+36180,UI Labs Bioswale - Cumulus: Weather Station Wind Speed,,WindSpeed,NA,41.90715,-87.653996,meters per second,m/s,Instantaneous,Y,
+39170,Argyle - Thunder 1: Cellular Strength,Cellular Strength,CellularSignalStrength,CellularNetwork,41.973086,-87.659725,decibel milliwatts,dBm,Instantaneous,TBD,
+39171,Argyle - Thunder 1: Cellular Strength Error Code,Cellular Strength Error Code,ErrorCode,OptiThunder,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39172,Argyle - Thunder 1: Cellular Quality,Cellular Quality,CellularSignalQuality,CellularNetwork,41.973086,-87.659725,decibel level,dB,Instantaneous,TBD,
+39173,Argyle - Thunder 1: Cellular Quality Error Code,Cellular Quality Error Code,ErrorCode,OptiThunder,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39174,Argyle - Thunder 1: SM1 Soil Moisture Sensor,SM1 Soil Moisture Sensor,SoilMoisture,Soil,41.973086,-87.659725,millivolts,mV,Instantaneous,Y,
+39175,Argyle - Thunder 1: SM1 Soil Moisture Sensor Error Code,SM1 Soil Moisture Sensor Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39176,Argyle - Thunder 1: TM1 Temp Sensor,TM1 Temp Sensor,Temperature,Atmosphere,41.973086,-87.659725,millivolts,mV,Instantaneous,Y,
+39177,Argyle - Thunder 1: TM1 Temp Sensor Error Code,TM1 Temp Sensor Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39178,Argyle - Thunder 1: MK-III Weather Station Temp,MK-III Weather Station Temp,Temperature,Atmosphere,41.973086,-87.659725,degrees Celsius,degC,Instantaneous,Y,
+39179,Argyle - Thunder 1: MK-III Weather Station Temp Error Code,MK-III Weather Station Temp Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39180,Argyle - Thunder 1: MK-III Weather Station RH,MK-III Weather Station RH,RelativeHumidity,Atmosphere,41.973086,-87.659725,percent,%,Instantaneous,Y,
+39181,Argyle - Thunder 1: MK-III Weather Station RH Error Code,MK-III Weather Station RH Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39182,Argyle - Thunder 1: MK-III Weather Station Pressure,MK-III Weather Station Pressure,DifferentialPressure,Atmosphere,41.973086,-87.659725,pascals,Pa,Instantaneous,Y,
+39183,Argyle - Thunder 1: MK-III Weather Station Pressure Error Code,MK-III Weather Station Pressure Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39184,Argyle - Thunder 1: MK-III Weather Station Wind Speed,MK-III Weather Station Wind Speed,WindSpeed,Atmosphere,41.973086,-87.659725,meters per second,m/s,Instantaneous,Y,
+39185,Argyle - Thunder 1: MK-III Weather Station Wind Speed Error Code,MK-III Weather Station Wind Speed Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39186,Argyle - Thunder 1: MK-III Weather Station Wind Direction,MK-III Weather Station Wind Direction,WindDirection,Atmosphere,41.973086,-87.659725,degrees from north,deg from north,Instantaneous,Y,
+39187,Argyle - Thunder 1: MK-III Weather Station Wind Direction Error Code,MK-III Weather Station Wind Direction Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39188,Argyle - Thunder 1: MK-III Weather Station Rainfall,MK-III Weather Station Rainfall,CumulativePrecipitation,Atmosphere,41.973086,-87.659725,count,count,Cumulative,Y,
+39189,Argyle - Thunder 1: MK-III Weather Station Rainfall Error Code,MK-III Weather Station Rainfall Error Code,ErrorCode,SerialGateway,41.973086,-87.659725,dimensionless,,Instantaneous,TBD,
+39190,Argyle - Thunder 1: Online Status,Online Status,OnlineStatus,OptiThunder,41.973086,-87.659725,OptiRTC Network Status,Network Status,Instantaneous,N,
+39191,Langley - Thunder 1: Cellular Strength,Cellular Strength,CellularSignalStrength,CellularNetwork,41.753112,-87.607731,decibel milliwatts,dBm,Instantaneous,TBD,
+39192,Langley - Thunder 1: Cellular Strength Error Code,Cellular Strength Error Code,ErrorCode,OptiThunder,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39193,Langley - Thunder 1: Cellular Quality,Cellular Quality,CellularSignalQuality,CellularNetwork,41.753112,-87.607731,decibel level,dB,Instantaneous,TBD,
+39194,Langley - Thunder 1: Cellular Quality Error Code,Cellular Quality Error Code,ErrorCode,OptiThunder,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39195,Langley - Thunder 1: SM1 Soil Moisture Sensor,SM1 Soil Moisture Sensor,SoilMoisture,Soil,41.753112,-87.607731,millivolts,mV,Instantaneous,Y,
+39196,Langley - Thunder 1: SM1 Soil Moisture Sensor Error Code,SM1 Soil Moisture Sensor Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39197,Langley - Thunder 1: TM1 Temp Sensor,TM1 Temp Sensor,Temperature,Atmosphere,41.753112,-87.607731,millivolts,mV,Instantaneous,Y,
+39198,Langley - Thunder 1: TM1 Temp Sensor Error Code,TM1 Temp Sensor Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39199,Langley - Thunder 1: MK-III Weather Station Temp,MK-III Weather Station Temp,Temperature,Atmosphere,41.753112,-87.607731,degrees Celsius,degC,Instantaneous,Y,
+39200,Langley - Thunder 1: MK-III Weather Station Temp Error Code,MK-III Weather Station Temp Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39201,Langley - Thunder 1: MK-III Weather Station RH,MK-III Weather Station RH,RelativeHumidity,Atmosphere,41.753112,-87.607731,percent,%,Instantaneous,Y,
+39202,Langley - Thunder 1: MK-III Weather Station RH Error Code,MK-III Weather Station RH Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39203,Langley - Thunder 1: MK-III Weather Station Pressure,MK-III Weather Station Pressure,DifferentialPressure,Atmosphere,41.753112,-87.607731,pascals,Pa,Instantaneous,Y,
+39204,Langley - Thunder 1: MK-III Weather Station Pressure Error Code,MK-III Weather Station Pressure Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39205,Langley - Thunder 1: MK-III Weather Station Wind Speed,MK-III Weather Station Wind Speed,WindSpeed,Atmosphere,41.753112,-87.607731,meters per second,m/s,Instantaneous,Y,
+39206,Langley - Thunder 1: MK-III Weather Station Wind Speed Error Code,MK-III Weather Station Wind Speed Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39207,Langley - Thunder 1: MK-III Weather Station Wind Direction,MK-III Weather Station Wind Direction,WindDirection,Atmosphere,41.753112,-87.607731,degrees from north,deg from north,Instantaneous,Y,
+39208,Langley - Thunder 1: MK-III Weather Station Wind Direction Error Code,MK-III Weather Station Wind Direction Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39209,Langley - Thunder 1: MK-III Weather Station Rainfall,MK-III Weather Station Rainfall,CumulativePrecipitation,Atmosphere,41.753112,-87.607731,count,count,Cumulative,Y,
+39210,Langley - Thunder 1: MK-III Weather Station Rainfall Error Code,MK-III Weather Station Rainfall Error Code,ErrorCode,SerialGateway,41.753112,-87.607731,dimensionless,,Instantaneous,TBD,
+39211,Langley - Thunder 1: Online Status,Online Status,OnlineStatus,OptiThunder,41.753112,-87.607731,OptiRTC Network Status,Network Status,Instantaneous,N,
+39212,Argyle NWS Probability of Precipitation,,TimeWindowBoundary,NA,41.973086,-87.659725,universal coordinated time,UTC,Instantaneous,TBD,"API Returns: ""Message"": ""Sequence contains no elements"""
+39213,Argyle NWS Quantitative Precipitation Forecast,,TimeWindowBoundary,NA,41.973086,-87.659725,universal coordinated time,UTC,Instantaneous,TBD,"API Returns: ""Message"": ""Sequence contains no elements"""
+39214,Langley NWS Probability of Precipitation,,TimeWindowBoundary,NA,41.753112,-87.607731,universal coordinated time,UTC,Instantaneous,TBD,"API Returns: ""Message"": ""Sequence contains no elements"""
+39215,Langley NWS Quantitative Precipitation Forecast,,TimeWindowBoundary,NA,41.753112,-87.607731,universal coordinated time,UTC,Instantaneous,TBD,"API Returns: ""Message"": ""Sequence contains no elements"""
+39826,UI Labs - Bioswale: Avg Temp,,Temperature,Atmosphere,41.90715,-87.653996,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+39827,UI Labs - Bioswale: High Temp,,Temperature,Atmosphere,41.90715,-87.653996,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+39828,UI Labs - Bioswale: Low Temp,,Temperature,Atmosphere,41.90715,-87.653996,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+39829,UI Labs - Bioswale: Rainfall,,Precipitation,Precipitation,41.90715,-87.653996,inches,in,Instantaneous,TBD,API returns no records
+39830,UI Labs - Bioswale: Soil Temp,,Temperature,Soil,41.90715,-87.653996,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+39831,UI Labs - Bioswale: Soil Moisture,,SoilMoisture,Soil,41.90715,-87.653996,percent,%,Instantaneous,TBD,API returns no records
+39832,Argyle - Bioswale: Avg Temp,,Temperature,Atmosphere,41.973461,-87.659793,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+39833,Argyle - Bioswale: High Temp,,Temperature,Atmosphere,41.973461,-87.659793,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+39834,Argyle - Bioswale: Low Temp,,Temperature,Atmosphere,41.973461,-87.659793,degrees Fahrenheit,degF,Instantaneous,TBD,API returns no records
+40096,Langley - Cumulus: Bioswale Calibrated VWC Continuous Lookup,,SoilMoisture,OptiApplication,41.753112,-87.607731,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+40097,Langley - Cumulus: Bioswale Calibrated VWC Result Lookup,,SoilMoisture,OptiApplication,41.753112,-87.607731,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+40098,Langley - Cumulus: Bioswale Calibrated VWC,,SoilMoisture,NA,41.753112,-87.607731,Percent Volumetric Water Content,%(vwc),Instantaneous,Y,
+40099,Langley - Cumulus: Weather Station Rainfall Polynomial Coefficients,,Coefficients,OptiApplication,41.753112,-87.607731,inches,in,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40100,Langley - Cumulus: Weather Station Rainfall,,CumulativePrecipitation,NA,41.753112,-87.607731,inches,in,Cumulative,Y,
+40101,Langley - Cumulus: Weather Station Air Temp Polynomial Coefficients,,Coefficients,OptiApplication,41.753112,-87.607731,degrees Celsius,degC,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40102,Langley - Cumulus: Weather Station Air Temp,,Temperature,NA,41.753112,-87.607731,degrees Celsius,degC,Instantaneous,Y,
+40103,Langley - Cumulus: Weather Station Pressure Polynomial Coefficients,,Coefficients,OptiApplication,41.753112,-87.607731,pascals,Pa,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40104,Langley - Cumulus: Weather Station Pressure,,DifferentialPressure,NA,41.753112,-87.607731,pascals,Pa,Instantaneous,Y,
+40105,Langley - Cumulus: Weather Station Wind Speed Polynomial Coefficients,,Coefficients,OptiApplication,41.753112,-87.607731,meters per second,m/s,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40106,Langley - Cumulus: Weather Station Wind Speed,,WindSpeed,NA,41.753112,-87.607731,meters per second,m/s,Instantaneous,Y,
+40107,Argyle - Cumulus: Bioswale Calibrated VWC Continuous Lookup,,SoilMoisture,OptiApplication,41.973086,-87.659725,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+40108,Argyle - Cumulus: Bioswale Calibrated VWC Result Lookup,,SoilMoisture,OptiApplication,41.973086,-87.659725,Percent Volumetric Water Content,%(vwc),Instantaneous,TBD,API returns multiple values per timestamp
+40109,Argyle - Cumulus: Bioswale Calibrated VWC,,SoilMoisture,NA,41.973086,-87.659725,Percent Volumetric Water Content,%(vwc),Instantaneous,y,
+40110,Argyle - Cumulus: Weather Station Rainfall Polynomial Coefficients,,Coefficients,OptiApplication,41.973086,-87.659725,inches,in,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40111,Argyle - Cumulus: Weather Station Rainfall,,CumulativePrecipitation,NA,41.973086,-87.659725,inches,in,Cumulative,Y,
+40112,Argyle - Cumulus: Weather Station Air Temp Polynomial Coefficients,,Coefficients,OptiApplication,41.973086,-87.659725,degrees Celsius,degC,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40113,Argyle - Cumulus: Weather Station Air Temp,,Temperature,NA,41.973086,-87.659725,degrees Celsius,degC,Instantaneous,Y,
+40114,Argyle - Cumulus: Weather Station Pressure Polynomial Coefficients,,Coefficients,OptiApplication,41.973086,-87.659725,pascals,Pa,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40115,Argyle - Cumulus: Weather Station Pressure,,DifferentialPressure,NA,41.973086,-87.659725,pascals,Pa,Instantaneous,Y,
+40116,Argyle - Cumulus: Weather Station Wind Speed Polynomial Coefficients,,Coefficients,OptiApplication,41.973086,-87.659725,meters per second,m/s,Instantaneous,N,I do not think we need this. We do not get the raw x values but do get the calculated values in the next feed.
+40117,Argyle - Cumulus: Weather Station Wind Speed,,WindSpeed,NA,41.973086,-87.659725,meters per second,m/s,Instantaneous,Y,
