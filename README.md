@@ -18,11 +18,13 @@ Opti uses a token to authenticate users of their API. Obtain your token and plac
 
 ### Configuring Automation
 
-The bash script, `ggws-77ih.sh`, will run the ETL process. Use a task scheduler, such as `crontab` to set a regular time to run the ETL.
+The bash script, `ggws-77ih.sh`, will run the ETL process. Open the bash script and [see the instructions](http://open-data-etl-utility-kit.readthedocs.io/en/stable/setting-up-automation.html#configurating-setup-script-sh-e-g-abcd-1234-sh) to configure the file names to match your directory.
+
+Use a task scheduler, such as `crontab` to set a regular time to run the ETL. [See the recommended configuration] to setup a regular updating process while also logging the outcome of each update.
 
 #### Windows Users
 
-Automation is currently initiated by a Bash script, so you can use [git bash]() or [Cygwin]() to automate the process.
+Automation is currently initiated by a Bash script, such as [Cygwin](https://www.cygwin.com/) to automate the process.
 
 ## Structure
 
@@ -35,7 +37,6 @@ Below are the principal components of the repository and a brief description of 
   - `credentials_sample.csv` - A sample of how credentials should be specified, however, it is not used in the ETL. Please see instructions to configure credentials.
 
 Other files located in the repository not listed here either indirectly support the workflow or are adminstrative in nature.
-
 
 ## License
 
