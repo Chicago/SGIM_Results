@@ -14,13 +14,13 @@ Place this repository in the `./open-data-etl-utility-kit/ETL/` directory. You m
 
 ### Opti Credentials
 
-Opti uses a token to authenticate users of their API. Obtain your token and place it in the `[credentials_sample.csv](credentials_sample.csv)` document and save it as `credentials.csv`. The ETL is pre-configured to read from the `credentials.csv` for authentication.
+Opti uses a token to authenticate users of their API. Obtain your token and place it in the [`credentials_sample.csv`](credentials_sample.csv) document and save it as `credentials.csv`. The ETL is pre-configured to read from the `credentials.csv` for authentication.
 
 ### Configuring Automation
 
 The bash script, `ggws-77ih.sh`, will run the ETL process. Open the bash script and [see the instructions](http://open-data-etl-utility-kit.readthedocs.io/en/stable/setting-up-automation.html#configurating-setup-script-sh-e-g-abcd-1234-sh) to configure the file names to match your directory.
 
-Use a task scheduler, such as `crontab` to set a regular time to run the ETL. [See the recommended configuration] to setup a regular updating process while also logging the outcome of each update.
+Use a task scheduler, such as `crontab` to set a regular time to run the ETL. [See the recommended configuration](http://open-data-etl-utility-kit.readthedocs.io/en/stable/setting-up-automation.html#configurating-setup-script-sh-e-g-abcd-1234-sh) to setup a regular updating process while also logging the outcome of each update.
 
 #### Windows Users
 
