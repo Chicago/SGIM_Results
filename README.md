@@ -36,7 +36,7 @@ Below are the principal components of the repository and a brief description of 
   - `ggws-77ih.sh` - A bash script which runs the ETL. 
   - `credentials_sample.csv` - A sample of how credentials should be specified, however, it is not used in the ETL. Please see instructions to configure credentials.
 
-Other files located in the repository not listed here either indirectly support the workflow or are adminstrative in nature.
+Other files located in the repository not listed here either indirectly support the workflow or are adminstrative in nature. Note that `.gitignore` includes `credentials.csv` (*excludes* it from commits). You may wish to change this setting for internal-only forks of this repository within your organization but should be cautious if you later want to contribute back to this public repository.
 
 ## License
 
